@@ -1,9 +1,17 @@
 ---
-title: /
+title: /home
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# The Verifier Alliance
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Smart contracts are open source, but they're not easily accessible.
+
+The Verifier Alliance is a consortium among key industry leaders that join together to build a Shared Database of source code files for the smart contracts of possibly all Ethereum Virtual Machine (EVM) blockchains and beyond.
+
+The Shared Database is publicly and easily accessible and can be freely used by developers, analysts and researchers to move the industry forward.
+
+The Shared Database is just the first step of a long quest meant to unify smart contract's related data so they can be coherent across many different platforms and services.
+
+To access the Shared Database, please [follow the quick guide]({base}/how).
