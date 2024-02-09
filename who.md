@@ -1,7 +1,7 @@
 ---
 title: /who
 layout: page
-permalink: /who
+permalink: /who.html
 ---
 
 ## Database

@@ -1,10 +1,10 @@
 ---
 title: /how
 layout: page
-permalink: /how
+permalink: /how.html
 ---
 
-# How to get access to the Alliance Shared Database
+## How to get access to the Alliance Shared Database
 
 lorem ipsum
 
