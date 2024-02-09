@@ -7,7 +7,8 @@ header_pages:
 - who.md
 - how.md
 
-footer: 'follow us on <a href="https://twitter.com/verifieralliance">twitter</a>'
+footer: 'follow us on <a href="https://twitter.com/verifieralliance">twitter | 
+                      <a href="https://warpcast.com/verifieralliance.eth"></a>'
 
 style: dark
 listen_for_clients_preferred_style: true
