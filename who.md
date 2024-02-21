@@ -22,24 +22,24 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 
 ## Data providers
 
-[Blockscout](https://blockscout.com)
-[Routescan](https://routescan.io)
-[Sourcify](https://sourcify.dev)
-[Tenderly](https://tenderly.co)
+![blockscout_icon](/assets/icons/blockscout.svg){: .inline-image} [Blockscout](https://blockscout.com)
+![routescan_icon](/assets/icons/routescan.svg){: .inline-image} [Routescan](https://routescan.io)
+![sourcify_icon](/assets/icons/sourcify.svg){: .inline-image} [Sourcify](https://sourcify.dev)
+![tenderly_icon](/assets/icons/tenderly.png){: .inline-image} [Tenderly](https://tenderly.co)
 
 ## Contributors 
 
-[Beaconchain](https://beaconcha.in)
-[Codeslaw](https://www.codeslaw.app/)
-[Conduit](https://conduit.xyz)
-[samczsun](https://twitter.com/samczsun)
-[Vyper](https://docs.vyperlang.org/)
+![beaconcha.in_icon](/assets/icons/beaconcha.in.jpg){: .inline-image} [Beaconchain](https://beaconcha.in)
+![codeslaw_icon](/assets/icons/codeslaw.svg){: .inline-image} [Codeslaw](https://www.codeslaw.app/)
+![conduit_icon](/assets/icons/conduit.svg){: .inline-image} [Conduit](https://conduit.xyz)
+![samczsun_icon](/assets/icons/samczsun.jpg){: .inline-image} [samczsun](https://twitter.com/samczsun)
+![vyper_icon](/assets/icons/vyper.svg){: .inline-image} [Vyper](https://docs.vyperlang.org/)
 
 ## Ecosystems
 
-[Avalanche](https://avax.network)
-[Optimism](https://optimism.io)
+![avalanche_icon](/assets/icons/avalanche.svg){: .inline-image} [Avalanche](https://avax.network)
+![optimism_icon](/assets/icons/optimism.svg){: .inline-image} [Optimism](https://optimism.io)
 
 ## New partners
 The Alliance is currently not looking to accept new partners, but it will in the future. 
-If you're interested in applying, send an email to [join@verifieralliance.org](mailto:verifieralliance.org?subject=Joining%20the%20Alliance)
+If you're interested in applying, send an email to [join@verifieralliance.org](mailto:join@verifieralliance.org?subject=Joining%20the%20Alliance)
