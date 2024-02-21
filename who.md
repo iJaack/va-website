@@ -22,22 +22,24 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 
 ## Data providers
 
-[Blockscout](https://blockscout.com)
-[OpenChain](https://openchain.xyz)
+{% svg /assets/logos/blockscout_icon.svg width"24 foo="bar" %} [Blockscout](https://blockscout.com)
 [Routescan](https://routescan.io)
 [Sourcify](https://sourcify.dev)
 [Tenderly](https://tenderly.co)
 
 ## Contributors 
 
-[Conduit](https://conduit.xyz)
 [Beaconchain](https://beaconcha.in)
+[Codeslaw](https://www.codeslaw.app/)
+[Conduit](https://conduit.xyz)
+[samczsun](https://twitter.com/samczsun)
+[Vyper](https://docs.vyperlang.org/)
 
 ## Ecosystems
 
 [Avalanche](https://avax.network)
 [Optimism](https://optimism.io)
 
-
-
-[def]: https://tenderly.co
+## New partners
+The Alliance is currently not looking to accept new partners, but it will in the future. 
+If you're interested in applying, send an email to [join@verifieralliance.org](mailto:verifieralliance.org?subject=Joining%20the%20Alliance)

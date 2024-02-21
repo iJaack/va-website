@@ -4,7 +4,7 @@ layout: page
 permalink: /how.html
 ---
 
-## How to get access to the Alliance Shared Database
+## How access the Alliance Shared Database
 
 Coming soon
 
