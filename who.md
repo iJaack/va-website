@@ -22,7 +22,7 @@ The Alliance is dedicated to push the data and smart contract verification tooli
 
 ## Data providers
 
-{% svg /assets/logos/blockscout_icon.svg width"24 foo="bar" %} [Blockscout](https://blockscout.com)
+[Blockscout](https://blockscout.com)
 [Routescan](https://routescan.io)
 [Sourcify](https://sourcify.dev)
 [Tenderly](https://tenderly.co)
